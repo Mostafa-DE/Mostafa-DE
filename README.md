@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Al Fayyad Store 🏪](https://alfayyad.vercel.app/)**
+- 🔭 I’m currently working on **[Unicorns Store 🏪](https://unicornstore.vercel.app/)**
 
 - 👨‍💻 All my projects will be available soon at **[Mostafa-DE-Portfolio]()**
 
 - 📫 you can reach me at **mostafafayyado1@gmail.com**
-
-- 👯 I’m currently learning **Advanced Java (OOP)**
 
 - ⚡ I'm looking forward to learning **Data Structures, Algorithms and Design pattern.**
 
