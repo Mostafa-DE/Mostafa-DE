@@ -10,7 +10,7 @@
 
 - 👨‍💻 All my projects will be available soon at **[Mostafa-DE-Portfolio]()**
 
-- 📫 you can reach me at **mostafafayyado1@gmail.com**
+- 📫 you can reach me at **mostafa.de.dev@gmail.com**
 
 - ⚡ I'm looking forward to learning **Data Structures, Algorithms and Design pattern.**
 
