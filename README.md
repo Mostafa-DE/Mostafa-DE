@@ -12,8 +12,6 @@
 
 - 📫 you can reach me at **mostafa.de.dev@gmail.com**
 
-- ⚡ I'm looking forward to learning **Data Structures, Algorithms and Design pattern.**
-
 <br />
 
 ## 🚀 Languages and Tools:
