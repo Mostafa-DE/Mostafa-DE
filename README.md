@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/celtis-australis/image/upload/v1665764152/media/sons_copy_fe1qtw.jpg"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there, I'm Mostafa</h1>
 <h3 align="center"> I'm An Engineering, Footballer, developer and programmer 😉 </h3>
