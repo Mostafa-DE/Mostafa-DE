@@ -8,6 +8,9 @@
 ## 🙋‍♂️ About Me
 
 Creative things are challenging and this applies to Software Engineering. So this is what made me change my major from Electrical Engineering to Computer Engineering. Knowing that I can take an idea and turn it into a product that people can use and enjoy, gives me a lot of joy.
+ - Fact about me! I consider coding is a lifestyle more than a career.
+ - I love to learn new things and I'm always looking for new challenges.
+ - I continuously create and build projects just for fun 🙂
 
 <br />
 
@@ -26,9 +29,9 @@ Creative things are challenging and this applies to Software Engineering. So thi
 <br/>
 <br/>
 
-## ✅ Projects that I'm proud of:
-- Unicorns Store: <a target="_blank" href="https://unicorns-store.com">Live Demo</a>
-- Al Fayyad Store: <a target="_blank" href="https://alfayyad.vercel.app">Live Demo</a>
+## Do you have some time? 🤔
+Take a look at my portfolio 
+<a href = "https://mostafade.vercel.app" target="_blank">Click To View</a>
 
 <br/>
 <br/>
