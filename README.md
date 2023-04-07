@@ -32,10 +32,3 @@ Creative things are challenging and this applies to Software Engineering. So thi
 ## Do you have some time? 🤔
 Take a look at my portfolio 
 <a href = "https://mostafade.vercel.app" target="_blank">Click To View</a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-    <a href=""><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mostafa-DE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href=""><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-DE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
