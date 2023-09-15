@@ -7,8 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-Creative things are challenging and this applies to Software Engineering. So this is what made me change my major from Electrical Engineering to Computer Engineering. Knowing that I can take an idea and turn it into a product that people can use and enjoy, gives me a lot of joy.
- - Fact about me! I consider coding is a lifestyle more than a career.
+Being creative can be tough, even in the world of Software Engineering. That's why I switched from Electrical Engineering to Computer Engineering. The thought of transforming ideas into products that bring joy to people is what truly excites me.
+ - Fact about me! I consider coding to be a lifestyle more than a career.
  - I love to learn new things and I'm always looking for new challenges.
  - I continuously create and build projects just for fun 🙂
 
@@ -29,6 +29,5 @@ Creative things are challenging and this applies to Software Engineering. So thi
 <br/>
 <br/>
 
-## Do you have some time? 🤔
-Take a look at my portfolio 
-<a href = "https://mostafade.vercel.app" target="_blank">Click To View</a>
+## Got a moment? 🤔
+Feel free to check out my portfolio by <a href = "https://mostafade.vercel.app" target="_blank">Clicking Here</a>
