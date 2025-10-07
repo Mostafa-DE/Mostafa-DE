@@ -7,10 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-Being creative can be tough, even in the world of Software Engineering. That's why I switched from Electrical Engineering to Computer Engineering. The thought of transforming ideas into products that bring joy to people is what truly excites me.
- - Fact about me! I consider coding to be a lifestyle more than a career.
- - I love to learn new things and I'm always looking for new challenges.
- - I continuously create and build projects just for fun 🙂
+I’m a Software Engineer who loves solving problems and creating smooth, reliable systems. I enjoy tackling new challenges and finding smart, simple solutions that make a difference. I have a special fascination with how compilers and interpreters turn code into functionality.
+
+Outside of work, I’m passionate about exploring new technologies, improving my skills, and diving into books. I also enjoy learning languages, staying active, and taking on new adventures whenever I can. For me, it’s all about growing, learning, and having fun along the way.
 
 <br />
 
